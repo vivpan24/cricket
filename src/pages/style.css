@@ -1,0 +1,13 @@
+.img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    padding: 30px;
+    }
+    p{
+        color:black;
+        font-family: "Trebuchet MS", Verdana, sans-serif;;
+        padding: 10px;
+        font-size: 21px;
+        font-style: italic;
+    }
